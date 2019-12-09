@@ -1,0 +1,79 @@
+DevOps
+------------------------
+        Each commit must go to release.
+        Cost reudction.
+        Quality - REDFINED
+        ==========================
+==============================================
+Prod - OnMobX        
+Mgr - Mgrx.
+=============================
+Transition - 2 WEEK =====> 20 MINS.
+==================================================
+SDLC
+----------------------------
+Architect - JIRA - Confulence
+Dev - 10 FEA - 10 DEV
+            Code Integ - Gitlab
+            Code Ana - 
+                        PEER CODE REVIEW - 
+                        Static Code Ana  - SonarQube
+            Build - Maven - Gradle
+            Unit TESTING - Junit
+            Package mgmt -
+                            SYSTEM
+                            APP -
+            Archive tool - Artifactory
+            --------------------------------------
+            OnMobX56.7 ----> 100 BOXES
+            -------------------------------------
+            50 L - 50 W
+            50 N - 50 A
+            25 T - 25 WL - 25 -JBs - 25 WS
+            25 MY  - 25 MS - 25 OR - 25 PS
+            100 PRO - 
+            -------------------------------------
+            1 DEP -> 9 mins.
+            100 - DEP -> 9 mins?
+                ---------------------
+                HOW?- Parrell DEP
+            -----------------------------------------
+            Code -> Ansible -> Puppet- > Chef - >Salt
+            GUI -> Octopus Dep - Udeploy
+            -------------------------------------
+            9 mins + 1 mins(100 SERVER) --- 10 MINS.
+            =====================================================
+            100000 INsarnce - 100 DIFF Config ---> 1 SEC.
+            -----------
+                Container -> Docker + Kubernetes
+
+            AT
+
+            Code Coverage - 
+            ------------------------------
+            =========================================================================
+            PLAN->code->Ana->UT->Pack-Archie->Dep2QA->AT->CC
+            JIRA_>GIt->SQ ->Junit>Jar->Art ->Ansible->SEL->Jacoco
+            ------------------------------------------------------
+                                JENKINS
+                                cont - Integ
+                                Auto Build
+                                Auto Testing
+                                Imm Feedback
+            ======================================================
+            ======================================================================
+            Prod 
+                    Dep2Prod
+                    Monitoring -
+                            INFRA - Zabbix
+                            Log - ELK - 
+                            Performance - NewRelic
+
+https://www.devopsschool.com/path
+===========================================================================================
+Username: devops@rajeshkumar.xyz 
+Pass: v78qbka7
+============================================================================================
+Onmobile-Dec-Docker-K8s-Bangalore-2019
+
+http://bit.ly/2LCBCTF
